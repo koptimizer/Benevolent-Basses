@@ -13,8 +13,8 @@
 
 theme: "Benevolent Basses"
 
-url    : "http://benevolent-basses.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "http://benevolent-basses.com" # the subpath of your site, e.g. /blog
+url    : "https://koptimizer.github.io/Benevolent-Basses/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : "Benevolent Basses"
 email      : "jjeangs@gmail.com" #this is also the email contact forms will go to
