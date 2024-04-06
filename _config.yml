@@ -14,7 +14,7 @@
 theme: "jekyll-agency"
 remote-theme: "raviriley/agency-jekyll-theme"
 
-url    : "https://koptimizer.github.io/Benevolent-Basses/" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://koptimizer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : "Benevolent Basses"
