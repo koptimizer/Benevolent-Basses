@@ -8,11 +8,10 @@ gem "wdm", ">= 0.1.0" if Gem.win_platform?
 
 gem "webrick", "~> 1.8"
 
-plugins:
-  - jekyll-coffeescript
-  - jekyll-default-layout
-  - jekyll-github-metadata
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-titles-from-headings
-  - jekyll-relative-links
+gem "jekyll-coffeescript"
+gem "jekyll-default-layout"
+gem "jekyll-github-metadata"
+gem "jekyll-optional-front-matter"
+gem "jekyll-readme-index"
+gem "jekyll-titles-from-headings"
+gem "jekyll-relative-links"
