@@ -11,15 +11,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: Benevolent Basses
+theme: "Benevolent Basses"
 
 url    : "http://benevolent-basses.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "http://benevolent-basses.com" # the subpath of your site, e.g. /blog
 
-title      : Benevolent Basses
-email      : jjeangs@gmail.com #this is also the email contact forms will go to
-description: Benevolent Basses
-author     : kopt
+title      : "Benevolent Basses"
+email      : "jjeangs@gmail.com" #this is also the email contact forms will go to
+description: "Benevolent Basses"
+author     : "kopt"
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
